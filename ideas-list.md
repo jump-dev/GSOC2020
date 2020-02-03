@@ -25,7 +25,7 @@ Bridges help reformulate the constraints and functions from a model into another
 
 #### Technical Details
 
-Technical details available in thei [issue](https://github.com/JuliaOpt/MathOptInterface.jl/issues/680)
+Technical details available in this [issue](https://github.com/JuliaOpt/MathOptInterface.jl/issues/680)
 
 
 #### Helpful Experience
